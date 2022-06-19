@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="qqZone:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/qqZone_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="qqZone/web/Web" />
+    </root>
+  </artifact>
+</component>
